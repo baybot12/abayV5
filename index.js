@@ -1,6 +1,7 @@
 //gw mencium bau bau Nyolong case 
-//Modal dikit napa woi
-//Kasi credit gw Panji Briant
+//Modal dikit napa woi 
+
+//Kasi credit gw ABAY
 //dan juga Panji Briant jgn cuma ganti nama bot
 //Jangan kek kontol Njir 
 //anak Babi Asw
