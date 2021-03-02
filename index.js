@@ -44,9 +44,9 @@ const shizukaapi = 'itsmeiky633'
 const TobzKey = 'BotWeA'
 const vcard = 'BEGIN:VCARD\n'  // Jangan di ubah biar ga error
             + 'VERSION:3.0\n'  // Jangan di ubah biar ga error
-            + 'FN:Panji Briant\n'  // Ganti jadi namamu
-            + 'ORG: Panji Briant;\n'  // Ganti jadi namamu/Botmu
-            + 'TEL;type=CELL;type=VOICE;waid=6287869164526:+6287869164526\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
+            + 'FN:ABAY\n'  // Ganti jadi namamu
+            + 'ORG: ABAY BOT;\n'  // Ganti jadi namamu/Botmu
+            + 'TEL;type=CELL;type=VOICE;waid=6285694347823:+6285694347823\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // jangan di ubah
 prefix = '!'
 blocked = []   
@@ -54,7 +54,7 @@ limitawal = '30' //terserah ganti atau engga
 cr = '*𝐊𝐑𝐔𝐙 𝐁𝐎𝐓*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6287869164526@s.whatsapp.net"]  //ganti menjadi nomormu
+const ownerNumber = ["6285694347823@s.whatsapp.net"]  //ganti menjadi nomormu
 /************************************/
 
        
