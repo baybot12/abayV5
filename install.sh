@@ -8,7 +8,7 @@ apt-get install mc -y
 apt-get install ffmpeg -y
 apt-get install wget -y
 apt-get install tesseract -y
-wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
+wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/abaybot12/abayV5/blob/master/ind.traineddata?raw=true"
 npm install -y
 
 echo "[*] All dependencies have been installed, please run the command \"node index.js\" to immediately start the script"
