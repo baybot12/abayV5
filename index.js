@@ -1,6 +1,6 @@
 //gw mencium bau bau Nyolong case 
 //Modal dikit napa woi 
-
+//follow ig gw @quotes.abay05
 //Kasi credit gw ABAY
 //dan juga Panji Briant jgn cuma ganti nama bot
 //Jangan kek kontol Njir 
